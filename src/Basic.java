@@ -33,14 +33,9 @@ public class Basic {
         System.out.println(name+name);
         System.out.println("My name is "+name);
         System.out.println(name.trim());
-
-
         System.out.println("Enter your name :- ");
         name = scanner.next();
 //        name = scanner.nextLine();
-
-
-
 
         System.out.println(name);
 
